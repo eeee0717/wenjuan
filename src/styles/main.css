@@ -5,6 +5,9 @@ body,
   margin: 0;
   padding: 0;
 }
+html{
+  background: #f0f0f0;
+}
 /*
 html.dark {
   background: #121212;
